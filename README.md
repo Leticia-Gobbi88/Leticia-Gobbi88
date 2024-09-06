@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/IA%20%26%20Banco%20de%20Dados-pink?style=for-the-badge&logo=artificial-intelligence" />
 </p>
 
+<p align="center">
+  <img src="URL_DA_IMAGEM_OU_GIF" alt="Rede Neural 3D" width="600px"/>
+</p>
+
 ## 👩‍💻 Sobre Mim:
 - 🎓 Atualmente faço faculdade de **Ciência de Dados** e **Engenharia de Software**
 - 💻 Sou apaixonada por **Inteligência Artificial** e **Banco de Dados**
