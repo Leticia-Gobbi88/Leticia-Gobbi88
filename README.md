@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="[URL_DA_IMAGEM_OU_GIF](https://i.gifer.com/J5A.gif)" alt="Rede Neural 3D" width="600px"/>
+  <img src="<div style="padding-top:56.200%;position:relative;"><iframe src="https://gifer.com/embed/J5A" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>" alt="Rede Neural 3D" width="600px"/>
 </p>
 
 ## 👩‍💻 Sobre Mim:
