@@ -6,9 +6,7 @@
   <img src="https://img.shields.io/badge/IA%20%26%20Banco%20de%20Dados-pink?style=for-the-badge&logo=artificial-intelligence" />
 </p>
 
-<p align="center">
-  <img src="https://i.gifer.com/J5A.gif" alt="Rede Neural 3D" width="600px"/>
-</p>
+<div style="padding-top:56.200%;position:relative;"><iframe src="https://gifer.com/embed/J5A" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>
 
 ## 👩‍💻 Sobre Mim:
 - 🎓 Atualmente faço faculdade de **Ciência de Dados** e **Engenharia de Software**
