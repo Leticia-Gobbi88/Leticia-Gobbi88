@@ -7,10 +7,7 @@
 </p>
 
 <p align="center">
-  <iframe src="https://gifer.com/embed/J5A" width="480" height="269.76" frameborder="0" allowfullscreen></iframe>
-</p>
-<p align="center">
-  <a href="https://gifer.com" target="_blank">Através de GIFER</a>
+  <img src="https://i.gifer.com/J5A.gif" alt="Rede Neural 3D" width="600px"/>
 </p>
 
 ## 👩‍💻 Sobre Mim:
