@@ -37,5 +37,5 @@
 
 <div align="center">
   <h3>📫 Vamos Conectar!</h3>
-  <a href="https://www.linkedin.com/in/seu-perfil-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin"/></a>
+  <a href="www.linkedin.com/in/leticiagobbi88"><img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin"/></a>
 </div>
