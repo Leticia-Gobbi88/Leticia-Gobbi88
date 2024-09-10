@@ -41,7 +41,7 @@
 
 <div align="center">
   <h3>📫 Vamos Conectar!</h3>
-  <a href="www.linkedin.com/in/leticiagobbi88"><img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin"/></a>
+  <a href="http://www.linkedin.com/in/leticiagobbi88"><img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin"/></a>
 </div>
 <!---
 Leticia-Gobbi88/Leticia-Gobbi88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
