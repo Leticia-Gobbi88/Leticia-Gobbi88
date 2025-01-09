@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Estudante%20de%20Ciência%20de%20Dados-pink?style=for-the-badge&logo=google-cloud" />
   <img src="https://img.shields.io/badge/Engenharia%20de%20Software-lilac?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/IA%20%26%20Banco%20de%20Dados-pink?style=for-the-badge&logo=artificial-intelligence" />
+  <img src="https://img.shields.io/badge/IA%20%26%20?style=for-the-badge&logo=artificial-intelligence" />
 </p>
 
 <p align="center">
